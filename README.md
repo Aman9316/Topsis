@@ -2,7 +2,7 @@
 
 Topsis
 
-topsispy is a Python package for performing TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis on decision matrices.
+topsis is a Python package for performing TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis on decision matrices.
 
 Installation
 
